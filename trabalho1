@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <caption> Lucro por mês</caption>
+        <thead>
+            <tr>
+                <td>MÊS</td>
+                <TD>   </TD>
+                <TD>JANEIRO</TD>
+                <TD>FEVEREIRO</TD>
+                <TD>MARÇO</TD>
+            </tr>
+        </thead>
+        <tbody>
+            <td>melão</td>
+            <td> 20</td>
+            <td>33</td>
+            <td>15</td>
+            <td>21</td>
+            <td>19</td>
+            <td>32</td> 
+        </tbody>
+        <tbody>
+            <td>abacate</td>
+            <td> 50</td>
+            <td>54</td>
+            <td>46</td>
+            <td>39</td>
+            <td>33</td>
+            <td> 31</td>
+        </tbody>
+        <tfoot>
+                <td><b>TOTAL</b></td>
+        </tfoot>
+    </table>
+</body>
+</html>
